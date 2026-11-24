@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="false">
+    <item android:drawable="@drawable/fx_fever_00" android:duration="80" />
+    <item android:drawable="@drawable/fx_fever_01" android:duration="80" />
+    <item android:drawable="@drawable/fx_fever_02" android:duration="80" />
+    <item android:drawable="@drawable/fx_fever_03" android:duration="80" />
+    <item android:drawable="@drawable/fx_fever_04" android:duration="80" />
+    <item android:drawable="@drawable/fx_fever_05" android:duration="80" />
+    <item android:drawable="@drawable/fx_fever_06" android:duration="80" />
+    <item android:drawable="@drawable/fx_fever_07" android:duration="80" />
+    <item android:drawable="@drawable/fx_fever_08" android:duration="80" />
+    <item android:drawable="@drawable/fx_fever_09" android:duration="80" />
+    <item android:drawable="@drawable/fx_fever_10" android:duration="80" />
+    <item android:drawable="@drawable/fx_fever_11" android:duration="80" />
+    <item android:drawable="@drawable/fx_fever_12" android:duration="80" />
+    <item android:drawable="@drawable/fx_fever_13" android:duration="80" />
+    <item android:drawable="@drawable/fx_fever_14" android:duration="80" />
+    <item android:drawable="@drawable/fx_fever_15" android:duration="80" />
+    <item android:drawable="@drawable/fx_fever_16" android:duration="80" />
+    <item android:drawable="@drawable/fx_fever_17" android:duration="80" />
+    <item android:drawable="@drawable/fx_fever_18" android:duration="80" />
+    <item android:drawable="@drawable/fx_fever_19" android:duration="80" />
+    <item android:drawable="@drawable/fx_fever_20" android:duration="80" />
+    <item android:drawable="@drawable/fx_fever_21" android:duration="80" />
+    <item android:drawable="@drawable/fx_fever_22" android:duration="80" />
+    <item android:drawable="@drawable/fx_fever_23" android:duration="80" />
+    <item android:drawable="@drawable/fx_fever_24" android:duration="80" />
+    <item android:drawable="@drawable/fx_fever_25" android:duration="80" />
+    <item android:drawable="@drawable/fx_fever_26" android:duration="80" />
+    <item android:drawable="@drawable/fx_fever_27" android:duration="80" />
+    <item android:drawable="@drawable/fx_fever_28" android:duration="80" />
+    <item android:drawable="@drawable/fx_fever_29" android:duration="80" />
+    <item android:drawable="@drawable/fx_fever_30" android:duration="80" />
+    <item android:drawable="@drawable/fx_fever_31" android:duration="80" />
+    <item android:drawable="@drawable/fx_fever_32" android:duration="80" />
+    <item android:drawable="@drawable/fx_fever_33" android:duration="80" />
+    <item android:drawable="@drawable/fx_fever_34" android:duration="80" />
+    <item android:drawable="@drawable/fx_fever_35" android:duration="80" />
+    <item android:drawable="@drawable/fx_fever_36" android:duration="80" />
+    <item android:drawable="@drawable/fx_fever_37" android:duration="80" />
+    <item android:drawable="@drawable/fx_fever_38" android:duration="80" />
+    <item android:drawable="@drawable/fx_fever_39" android:duration="80" />
+    <item android:drawable="@drawable/fx_fever_40" android:duration="80" />
+    <item android:drawable="@drawable/fx_fever_41" android:duration="80" />
+    <item android:drawable="@drawable/fx_fever_42" android:duration="80" />
+    <item android:drawable="@drawable/fx_fever_43" android:duration="80" />
+    <item android:drawable="@drawable/fx_fever_44" android:duration="80" />
+    <item android:drawable="@drawable/fx_fever_45" android:duration="80" />
+    <item android:drawable="@drawable/fx_fever_46" android:duration="80" />
+    <item android:drawable="@drawable/fx_fever_47" android:duration="80" />
+</animation-list>

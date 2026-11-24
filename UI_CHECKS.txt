@@ -1,0 +1,5 @@
+PASS: XML parses, IDs preserved, road is a full-window sibling of the safely padded HUD; HUD itself does not consume gameplay taps (layout/source checks).
+PASS: Notes use original resource art; glossy note wrapper removed. Position calculation has no special slowdown, clamp or dwell at the hit time.
+PASS: Six phone sizes x ten speeds: constant motion through the hit window; normal hold endpoint spacing remains consistent; Perfect anchor is 6 dp closer than the previous formula.
+PASS: Original art, road image, music, SFX and JSON maps unchanged.
+No build, Kotlin compilation, emulator/device run or ZIP. Checks are static/resource and numerical checks, not device rendering or performance verification.

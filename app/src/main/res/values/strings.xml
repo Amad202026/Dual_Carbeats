@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">Dual Carbeats</string>
+    <string name="main_title">DUAL\nCARBEATS</string>
+
+    <string name="settings_title">Settings</string>
+    <string name="music_volume">Music Volume</string>
+    <string name="sfx_volume">SFX Volume</string>
+    <string name="vibration">Vibration</string>
+    <string name="other">Other</string>
+    <string name="save">Save</string>
+
+    <string name="back">Back</string>
+    <string name="choose_level">Choose Level</string>
+    <string name="difficulty_label">Difficulty : </string>
+    <string name="highscore_label">Highscore : </string>
+    <string name="easy">Easy</string>
+    <string name="medium">Medium</string>
+    <string name="hard">Hard</string>
+    <string name="play">Play</string>
+    <string name="song_safe_and_sound">Safe &amp; Sound - NCS</string>
+    <string name="song_on_and_on">On &amp; On - NCS</string>
+    <string name="song_monkeys">Monkeys Spinning Monkeys</string>
+
+    <string name="result_song_title">ON &amp; ON - NCS (Hard)</string>
+    <string name="final_score">FINAL SCORE</string>
+    <string name="perfect">PERFECT</string>
+    <string name="great">GREAT</string>
+    <string name="miss">MISS</string>
+    <string name="max_combo">MAX COMBO</string>
+    <string name="high_score">HIGH SCORE</string>
+    <string name="retry">Retry</string>
+    <string name="song_menu">Select music</string>
+    <string name="home">Home</string>
+
+    <string name="pause">Pause</string>
+    <string name="combo_label">COMBO</string>
+
+    <!-- Pause -->
+    <string name="paused">PAUSED</string>
+    <string name="resume">Resume</string>
+
+    <!-- How to Play -->
+    <string name="how_to_play_title">How to Play</string>
+    <string name="htp_cars_title">Two Cars</string>
+    <string name="htp_cars_body">Control both cars at once. Tap the left side of the screen for the red car and the right side for the blue car.</string>
+    <string name="htp_notes_title">Notes</string>
+    <string name="htp_notes_body">Tap when a note reaches your car. The car moves to the note\'s lane and stays there.</string>
+    <string name="htp_hold_title">Hold Notes</string>
+    <string name="htp_hold_body">Press and hold for the whole long note, then release when it ends.</string>
+    <string name="htp_obstacle_title">Obstacles</string>
+    <string name="htp_obstacle_body">Tap just before the car reaches it to dodge. If you crash, you lose a heart.</string>
+    <string name="htp_rating_title">Ratings</string>
+    <string name="htp_rating_body">The closer your timing, the better: Perfect, Great or Miss. A Miss or a wrong tap breaks your combo.</string>
+    <string name="htp_hearts_title">Hearts</string>
+    <string name="htp_hearts_body">You have 3 hearts. Lose them all and the game is over.</string>
+    <string name="htp_fever_title">Fever</string>
+    <string name="htp_fever_body">Reach a combo of 100, 200, 300 and so on to trigger Fever, with bonus score for 10 seconds.</string>
+
+    <!-- Credit -->
+    <string name="credits_title">Credits</string>
+    <string name="credit_game">DUAL CARBEATS</string>
+    <string name="credit_version">Version 1.0</string>
+    <string name="credit_team_title">TEAM</string>
+    <string name="credit_team_body">Kelompok 6 TIM 5B\nPoliteknik Negeri Samarinda\n\nAhmad Ridwan (246651049)\nSuci Tonglo (246652001)\nAnugrah Ridho Y. (246651047)\nAhmad Nadir (246651048)\nRazan Javier R. (246651052)</string>
+    <string name="credit_music_title">MUSIC</string>
+    <string name="credit_music_body">Safe &amp; Sound - NCS\nOn &amp; On - NCS\nMonkeys Spinning Monkeys - Kevin MacLeod (incompetech.com)\nSFX - Pixabay</string>
+    <string name="credit_fonts_title">FONTS</string>
+    <string name="credit_fonts_body">Orbitron and Rajdhani (Google Fonts)</string>
+    <string name="credit_tools_title">BUILT WITH</string>
+    <string name="credit_tools_body">Android Studio, Kotlin and Figma</string>
+
+    <!-- Other settings -->
+    <string name="other_title">Other</string>
+    <string name="note_speed">Note Speed</string>
+    <string name="audio_offset">Audio Offset</string>
+    <string name="reset_highscore">Reset Highscore</string>
+    <string name="credit">Credit</string>
+</resources>
